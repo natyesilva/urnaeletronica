@@ -1,0 +1,17 @@
+D:\Teste DeMaria\UrnaEletronica\bin\Debug\net6.0-windows\UrnaEletronica.exe
+D:\Teste DeMaria\UrnaEletronica\bin\Debug\net6.0-windows\UrnaEletronica.deps.json
+D:\Teste DeMaria\UrnaEletronica\bin\Debug\net6.0-windows\UrnaEletronica.runtimeconfig.json
+D:\Teste DeMaria\UrnaEletronica\bin\Debug\net6.0-windows\UrnaEletronica.dll
+D:\Teste DeMaria\UrnaEletronica\bin\Debug\net6.0-windows\UrnaEletronica.pdb
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.csproj.AssemblyReference.cache
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.Urna.resources
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.csproj.GenerateResource.cache
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.AssemblyInfoInputs.cache
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.AssemblyInfo.cs
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.csproj.CoreCompileInputs.cache
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.dll
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\refint\UrnaEletronica.dll
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.pdb
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\UrnaEletronica.genruntimeconfig.cache
+D:\Teste DeMaria\UrnaEletronica\obj\Debug\net6.0-windows\ref\UrnaEletronica.dll
